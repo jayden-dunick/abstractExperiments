@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+#cab {
+    width: 100vw;
+    height: 100vh;
+}
+
+#click {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: none;
+    top: 40%;
+    right: 26%;
+}
+
+#click2 {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background-color: none;
+    top: 30%;
+    right: 42%;
+}
+
+#back {
+    background-color: chartreuse;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    z-index: 999;
+}
+
+
+img {
+    object-fit:fill;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.back {
+    z-index: 999;
+    height: 3em;
+    width: 3em;
+    position: fixed;
+    top: 4em;
+    left: 2em;
+    background-color: rgba(1, 1, 1, 1);
+    padding: .2em;
+    transition: .2s ease-in-out;
+    border-radius: .4em;
+    margin: auto;
+}
+
+.back:hover {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.back a img {
+    width: 50%;
+    margin-left: auto;
+}
+
+
+
+
+

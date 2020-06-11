@@ -1,0 +1,291 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Jost', sans-serif;
+}
+
+body {
+    background-color: #404040;
+}
+
+nav {
+    background-color: #202020;
+    position: fixed;
+    display: flex;
+    z-index: 999;
+    max-height: 35px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    height: 10%;
+    width: 100vw;
+}
+
+nav ul li {
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    background-color: #ffffff;
+    text-align: center;
+    transition: 1s all ease-in-out;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 33%;
+    overflow: hidden;
+    background-color: #404040;
+    grid-gap: 20px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#p5 {
+    grid-template-rows: 33% 33%;
+}
+
+#drawings {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: 1fr;
+    height: auto;
+}
+
+#hero {
+    height: 100vh;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: none;
+    padding-top: 5vh;
+    position: relative;
+}
+
+.hero {
+    height: 100vh;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: none;
+    padding-top: 5vh;
+    position: relative;
+}
+
+#hero2 {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: none;
+    padding-top: 5vh;
+    position: relative;
+    overflow: hidden;
+    height: 140vh;
+}
+
+.experiment {
+    height: 100vh;
+    grid-template-columns: 2fr 1fr;
+    padding-top: 5vh;
+    position: relative;
+    grid-auto-rows: 100%;
+}
+
+#container {
+    overflow: hidden;
+}
+
+#rift {
+    overflow: auto;
+}
+
+#rift2 {
+    
+}
+
+article {
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-color: #404646;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.drawing img {
+    object-fit: contain;
+    background-color: #404040;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .2s ease-in-out;
+
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+
+.idk {
+    height: 100%;
+}
+
+.back {
+    z-index: 998;
+    height: 3em;
+    width: 3em;
+    position: fixed;
+    top: 4em;
+    left: 2em;
+    background-color: rgba(255, 255, 255, .2);
+    padding: .2em;
+    transition: .2s ease-in-out;
+    border-radius: .4em;
+    margin: auto;
+}
+
+.back:hover {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.back a img {
+    width: 50%;
+    margin-left: auto;
+}
+
+.comments {
+    padding: 1em;
+    width: 100%;
+    overflow: auto;
+}
+
+textarea {
+    width: 100%;
+    height: 4em;
+    background-color: #fff;
+    resize: none;
+    border-radius: 1em;
+    font-size: 1.2em;
+    font-family: 'Jost', sans-serif;
+    padding: .2em;
+}
+
+form button {
+    float: right;
+    width: 20%;
+    height: 3em;
+    cursor: pointer;
+    background-color: #808080;
+    color: white;
+    border: none;
+    border-radius: .5em;
+}
+
+.commentBox {
+    width: 100%;
+    height: 6em;
+    background-color: #fff;
+    resize: none;
+    border-radius: 1em;
+    padding: .2em;
+    margin-top: 1em;
+
+}
+
+.commentBox p {
+    font-size: 1.2em;
+    font-family: 'Jost', sans-serif;
+    text-align: left;
+}
+
+
+p {
+    width: 100%;
+    margin-left: 1em;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    position: absolute;
+    top: 50%;
+    padding-top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, .8);
+    width: 102%;
+    height: 102%;
+    box-shadow: 1px rgba(0, 0, 0, .8);
+    color: white;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+h4 {
+    color: white;
+    font-size: 2em;
+}
+
+h5 {
+    color: white;
+    font-size: 1.2em;
+}
+
+@media screen and (min-width: 2000px) {
+    section {
+    max-width: 1920px;    
+    margin: auto;
+    }   
+}
+
+@media screen and (max-width: 1000px) {
+    
+    .experiment {
+    grid-template-columns: 1fr;
+    }
+    
+    nav ul li {
+    width: 100%;
+    }
+    
+    section {
+        grid-template-columns: 1fr;
+        grid-auto-rows: 20%;
+    }
+
+    #drawings {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(64, 500px);
+    }
+
+    #hero {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        grid-template-columns: 1fr;
+    }
+
+    #hero2 {
+        grid-template-columns: 1fr;
+    }
+}

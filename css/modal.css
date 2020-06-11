@@ -1,0 +1,62 @@
+
+#cars {
+    transition: all 0.5s ease-in-out;
+    display: flex;
+    justify-content: center;
+}
+
+#yes {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#navButton {
+    display: block;
+    width: 100px;
+    position: fixed;
+    height: 100px;
+    text-align: center;
+    transform: translateY(360px) translateX(380px);
+    background-color: chartreuse;
+    line-height: 4.4em;
+    border-radius: 20px;
+}
+
+a {
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+
+ul {
+    display: block;
+    transform: translateY(-400px);
+    width: 60%;
+    left: 30%;
+    height: 350px;
+    list-style-type: none;
+    background-color: crimson;
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+    border-radius: 20px;
+}
+
+li {
+    padding: 20px;
+}
+
+.menuToggled {
+    transform: translateY(100px);
+}
+
+#rift {
+    background-image: url("../experiments/RIFT/rift3.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+}
+
+#rift2 {
+    opacity: 1;
+}
