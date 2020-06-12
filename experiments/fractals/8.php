@@ -24,7 +24,9 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/8.png" alt="Swirling Spikes"> <article><h4>Swirling Spikes</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5>
+       <br>
+            <h6>Upon first viewing I see a flock of birds in a V formation but upon other glances I see more, such as a falling tree or a spiky exterior. There's a world of things that can be up to your interpretation.</h6></article>
     </section>
      <section class="experiment">
         <img src="../../images/fractals/8_1.png" alt="Alternate render"><article><h4>Alternate Render</h4></article>

@@ -30,7 +30,8 @@
             <div id="webGL-container"></div>
         </article>
          <article><h4>Spikes</h4>
-       <h5>3D Perception</h5></article>
+       <h5>3D Perception</h5><br>
+            <h6>Spikes, quite a somewhat interesting thing that's hard to pin down but giving it thought I can think of this as an implosion of sorts or a model of a planet showcasing it's harsh interior. </h6></article>
     </section>
         <section class="experiment"><img src="../../images/3d/spiky.png" alt="Spiky">
 <article class="comments">

@@ -24,7 +24,9 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/3.png" alt="Wormhole"> <article><h4>Wormhole</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5>
+       <br>
+            <h6>The entrance to a wormhole, the beginning of space and it can travel to another dimension.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/3_2.png" alt="Creation">

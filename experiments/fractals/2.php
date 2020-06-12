@@ -23,11 +23,15 @@
     </nav>
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
-       <img src="../../images/fractals/2.png" alt="Swirls"> <article><h4>Swirls</h4>
-      <h5>Fractals</h5></article>
+       <img src="../../images/fractals/2.png" alt="Swirls"> <article><h4>Sandy Swirls</h4>
+      <h5>Fractals</h5>
+      <br>
+            <h6>Just a few swirls that I can picture akin to sand traveling across waves. Links to another fractal called waves in some ways as they could in some ways be within the same location, interacting with each other. </h6>
+      </article>
     </section>
         <section class="experiment">
-        <img src="../../images/fractals/2_1.png" alt="Alternate render 1"><article><h4>Alternate Render</h4></article>
+        <img src="../../images/fractals/2_1.png" alt="Alternate render 1"><article><h4>Alternate Render</h4>
+        </article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/2_2.png" alt="Creation">

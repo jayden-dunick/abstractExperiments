@@ -34,7 +34,8 @@
         </article>
         <article>
             <h4>Tower</h4>
-            <h5>3D Perception</h5>
+            <h5>3D Perception</h5><br>
+            <h6>Has a slight likeness to the skytower but upon rotation to the top of bottom it reveals a swirl which is somewhat hypnotizing.</h6>
         </article>
     </section>
      <section class="experiment"><img src="../../images/3d/tower.png" alt="Tower">

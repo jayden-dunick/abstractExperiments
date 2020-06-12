@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/11.png" alt="Explosion"> <article><h4>Explosion</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>The aftermath of an explosion is what I see, the smoke leaving it's mark.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/11_2.png" alt="Creation">

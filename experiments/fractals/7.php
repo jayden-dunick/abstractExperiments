@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/7.png" alt="Contained Square"> <article><h4>Contained square</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>Within this container are a series of lines that I can easily imagine the movement contained, the lines swirling around and wanting to spread their wings.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/7_2.png" alt="Creation">

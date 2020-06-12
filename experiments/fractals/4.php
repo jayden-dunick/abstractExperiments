@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/4.png" alt="Eye"> <article><h4>Eyeball</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>Lines contained within a circle, the circle to me screamed out an eyeball.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/4_2.png" alt="Creation">

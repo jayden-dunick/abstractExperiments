@@ -30,7 +30,8 @@
             <div id="webGL-container"></div>
         </article>
        <article><h4>Contained</h4>
-       <h5>3D Perception</h5></article>
+       <h5>3D Perception</h5><br>
+            <h6>Seeing this I think of the deep sea, someone exploring the depths within the containment of a submarine seeing what fear's lie in the deep.</h6></article>
     </section>
      <section class="experiment"><img src="../../images/3d/contained.png" alt="Contained"><article class="comments">
             <?php 

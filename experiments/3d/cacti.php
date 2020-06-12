@@ -33,7 +33,8 @@
         </article>
         <article>
             <h4>Cacti</h4>
-            <h5>3D Perception</h5>
+            <h5>3D Perception</h5><br>
+            <h6>A potted cactus is what I see, but after gaining thoughts I was able to see how some saw a impact and it's crater.</h6>
         </article>
     </section>
     <section class="experiment">

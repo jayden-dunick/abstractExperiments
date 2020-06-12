@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/9.png" alt="Squared off lines"> <article><h4>Squared off lines</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>I think video, almost vapour wave in touch proving that VHS trail leaving as the square would rotate.</h6></article>
     </section>
      <section class="experiment">
         <img src="../../images/fractals/9_1.png" alt="Alternate render"><article><h4>Alternate Render</h4></article>

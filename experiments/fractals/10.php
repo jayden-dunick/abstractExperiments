@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/10.png" alt="Galaxies"> <article><h4>Galaxies</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>A series of induvidual galaxies that are swirling out towards the viewer, the image going forever as it slowly gets smaller and smaller until it goes out of view. </h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/10_2.png" alt="Creation">

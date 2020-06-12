@@ -33,7 +33,8 @@
         </article>
         <article>
             <h4>Crown of Thorns</h4>
-            <h5>3D Perception</h5>
+            <h5>3D Perception</h5><br>
+            <h6>Upon rotation this model can look like a lamp of some sorts, but I wanted to relate and present the idea that this could be a crown of thorns starfish to you.</h6>
         </article>
     </section>
      <section class="experiment"> 

@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/12.png" alt="Flow"> <article><h4>Flow</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>This one I find a bit harder to pin down to something concrete but I get a sense of flow looking at it and following the lines it shows.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/12_2.png" alt="Creation">

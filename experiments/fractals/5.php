@@ -24,7 +24,8 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/5.png" alt="LightBulb"> <article><h4>Lighbulb</h4>
-       <h5>Fractals</h5></article>
+       <h5>Fractals</h5><br>
+            <h6>To shine a light upon the surroundings is what first saw with this shape and so I developed it for it to further look more and more like a light bulb.</h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/5_2.png" alt="Creation">

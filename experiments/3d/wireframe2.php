@@ -30,7 +30,8 @@
             <div id="webGL-container"></div>
         </article>
        <article><h4>Two Spheres</h4>
-       <h5>3D Perception</h5></article>
+       <h5>3D Perception</h5> <br>
+            <h6> One of the first models I created for this experiment series I wanted to showcase how a wireframe could showcase many diferent things for example a the nevous system of a brain or such.</h6></article>
     </section>
      <section class="experiment"><img src="../../images/3d/wireframe2.png" alt="Wireframe">
     <article class="comments">

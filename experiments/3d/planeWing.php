@@ -30,7 +30,8 @@
             <div id="webGL-container"></div>
         </article>
        <article><h4>Plane Wings</h4>
-       <h5>3D Perception</h5></article>
+       <h5>3D Perception</h5><br>
+            <h6>My first render of this model looked akin to the wings of the Write brother's plane, the almost scafold lines making up it's design and hense the name of this model.</h6></article>
     </section>
      <section class="experiment"><img src="../../images/3d/planeWing.png" alt="Plane wing">
     <article class="comments">

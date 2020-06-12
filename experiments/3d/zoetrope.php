@@ -30,8 +30,9 @@
             <div id="webGL-container"></div>
         </article>
        
-       <article><h4>Two Spheres</h4>
-       <h5>3D Perception</h5></article>
+       <article><h4>Zoetrope</h4>
+       <h5>3D Perception</h5><br>
+            <h6>Two things speak out to me seeing this, one the title zoetrope harbouring back to the old animation style but also a circus.</h6></article>
     </section>
      <section class="experiment"><img src="../../images/3d/zoetrope.png" alt="Zoetrope"> 
     <article class="comments">

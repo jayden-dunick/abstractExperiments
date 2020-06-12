@@ -32,7 +32,8 @@
 <article>       <div id="webGL-container"></div></article>
         <article>
             <h4>Two Spheres</h4>
-            <h5>3D Perception</h5>
+            <h5>3D Perception</h5><br>
+            <h6>I see this somehow as one of those little bag of chocolate coins, reminding me of my childhood for some reason. </h6>
         </article>
     </section>
      <section class="experiment"> <img src="../../images/3d/twoSphere.png" alt=""> 

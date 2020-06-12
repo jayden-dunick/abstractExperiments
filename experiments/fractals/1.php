@@ -24,7 +24,10 @@
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
        <img src="../../images/fractals/1.png" alt="Hypnotise"> <article><h4>Hypnotise</h4>
-      <h5>Fractals</h5></article>
+      <h5>Fractals</h5>
+      <br>
+            <h6>Getting lost within the circles was what I found when I create this, with it having it's radial centre point I found it easy to just look into it and imaging the movement.</h6>
+      </article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/1_2.png" alt="Creation">

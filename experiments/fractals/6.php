@@ -23,8 +23,9 @@
     </nav>
      <section class="experiment">
        <div class="back"><a href="../../experiment5.html"><img src="../../images/back.svg" alt="Back Arrow" id="backs"></a></div>
-       <img src="../../images/fractals/6.png" alt="Waves"> <article><h4>Waves</h4>
-       <h5>Fractals</h5></article>
+       <img src="../../images/fractals/6.png" alt="Waves"> <article><h4>Red Waves</h4>
+       <h5>Fractals</h5><br>
+            <h6>A somewhat companion to the sand swirls, being a series of red waves that I can picture under a sunset looking over the sea </h6></article>
     </section>
  <section class="experiment">
         <img src="../../images/fractals/6_2.png" alt="Creation">
